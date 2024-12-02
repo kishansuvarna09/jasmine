@@ -1,5 +1,7 @@
+import Dashboard from "@/components/dashboard";
+
 function App() {
-  return <h1>Jasmine</h1>;
+  return <Dashboard />;
 }
 
 export default App;
